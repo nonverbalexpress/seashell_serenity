@@ -5,6 +5,9 @@ Welcome to Seashell Serenity, an ocean-themed text-based adventure game!
 About-
 Seashell Serenity is a Python game created by Melissa Chessa (@nonverbalexpress) for the IT-140 class project. The game is designed to be an interactive and enjoyable experience for players who love ocean adventures.
 
+Website for the Game- 
+https://nonverbalexpress.com/seashell-serenity
+
 How to Play-
 To play the game, follow these steps:
 1. Download the seashell_serenity.py file.
